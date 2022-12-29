@@ -8,25 +8,21 @@
 
 ------
 
-<details>
-<summary><b>🐍前言</b></summary>
+🐍前言
 
 案例来自《python黑帽子黑客与渗透测试编程之道》，翻译是大神@Gh0u1L5，腾讯玄武实验室安全研究员
 
 书中一共24个实验，第一个实验（取代netcat），谈不上取代，只能说模拟。顾称simulation_netcat
 
-<details>
-<summary><b>💖环境</b></summary>
+💖环境
 
 Win测试环境+kali测试环境+Ubuntu测试环境+pycharm开发环境
 
-<details>
-<summary><b>🎨简介</b></summary>
+🎨简介
 
 netcat俗称瑞士军刀，小巧灵活，牛逼plus，文件传输、反弹shell无所不能
 
-<details>
-<summary><b>🎄实例</b></summary>
+🎄实例
 
 - 查看帮助
 
